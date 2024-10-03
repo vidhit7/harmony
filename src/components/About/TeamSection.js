@@ -5,23 +5,43 @@ import { FaLinkedin, FaTwitter, FaGithub } from 'react-icons/fa';
 
 const teamMembers = [
   {
-    name: "John Doe",
-    role: "CEO & Founder",
+    name: "Shantanu Surve",
+    role: "Developer",
     image: "https://via.placeholder.com/150", // Replace with actual image URL
-    bio: "John is the visionary behind HarmonyMind.",
+    bio: "Shantanu is the visionary behind HarmonyMind.",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
     github: "https://github.com",
   },
   {
-    name: "Jane Smith",
-    role: "Chief Technology Officer",
+    name: "Vedant Navani",
+    role: "Developer",
     image: "https://via.placeholder.com/150", // Replace with actual image URL
-    bio: "Jane leads the technology team.",
+    bio: "Vedant leads the technology team.",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
     github: "https://github.com",
   },
+
+  {
+    name: "Devansh Joshi",
+    role: "Developer",
+    image: "https://via.placeholder.com/150", // Replace with actual image URL
+    bio: "Devansh leads the technology team.",
+    linkedin: "https://linkedin.com",
+    twitter: "https://twitter.com",
+    github: "https://github.com",
+  },
+
+  {
+    name: "Vidhit Navani",
+    role: "Developer",
+    image: "https://via.placeholder.com/150", // Replace with actual image URL
+    bio: "Vidhit leads the technology team.",
+    linkedin: "https://linkedin.com",
+    twitter: "https://twitter.com",
+    github: "https://github.com",
+  }
   // Add more team members here
 ];
 
